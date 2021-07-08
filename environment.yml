@@ -1,8 +1,9 @@
 name: minerl
 channels:
+  - pytorch
   - conda-forge
   - defaults
-  - pytorch
+channel_priority: true
 dependencies:
   - python=3.7
   - pip
