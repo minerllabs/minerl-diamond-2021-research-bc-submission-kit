@@ -15,6 +15,8 @@ placed inside the submission kit. This means it is ready for a submit with few c
 2. Update `aicrowd.json` file with your list of authors.
 3. Follow the instructions [here](https://github.com/minerllabs/competition_submission_template/#how-to-submit) to submit to AICrowd.
 
+Alternatively, see [this video](https://www.youtube.com/watch?v=0taVv6O7Vf0) for a step-by-step guide that shows how to do the submission fully online, without using the command line or having to download/install anything on your local machine!
+
 # Contents
 
 This kit contains the ["Research track Behavioural cloning"](https://github.com/KarolisRam/MineRL2021-Research-baselines/blob/main/standalone/Behavioural_cloning.py) baseline
